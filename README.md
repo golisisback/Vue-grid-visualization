@@ -1,4 +1,4 @@
-# vue-grid-visualization
+# vuetify-grid-visualization
 
 ## Project setup
 ```
